@@ -1,4 +1,4 @@
-# notice-secretary-privacy
+# notice_secretary_privacy
 
 안드로이드 앱 **알림비서(Notice Secretary)** 의 개인정보처리방침을 공개하기 위한 저장소입니다.
 방침 본문(`index.md`) 외에는 아무것도 들어 있지 않으며, 앱 소스 코드는 별도의 비공개 저장소에 있습니다.
