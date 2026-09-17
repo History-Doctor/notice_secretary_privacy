@@ -1,0 +1,8 @@
+# 테마를 쓰지 않는다. _layouts/default.html로 head를 직접 통제해야
+# noindex 메타 태그를 확실히 넣을 수 있기 때문이다.
+title: 알림비서(Notice Secretary) 개인정보처리방침
+lang: ko
+
+# 방침 본문과 무관한 파일은 빌드 결과에서 제외한다.
+exclude:
+  - README.md
